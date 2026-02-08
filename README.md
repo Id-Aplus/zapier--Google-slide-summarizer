@@ -3,7 +3,7 @@ Automated Google Slides summarizer using Zapier and OpenAI (GPT-4). Features a c
 Zapier AI Slide Summarizer 
 
 An automated pipeline that reads Google Slides and emails summaries using GPT-4, engineered to run entirely on the Zapier Free Tier.
-![Zapier Automation Workflow Diagram](https://github.com/user-attachments/assets/b387d26a-0d93-4f6e-a8da-1425bf8ceff1)
+![Zapier Workflow](https://github.com/user-attachments/assets/b387d26a-0d93-4f6e-a8da-1425bf8ceff1)
 
 Overview
 
