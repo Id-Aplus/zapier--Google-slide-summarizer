@@ -2,7 +2,7 @@
 
 **An automated pipeline that reads Google Slides and emails summaries using GPT-4, engineered to run entirely on the Zapier Free Tier.**
 
-![Zapier Workflow Diagram](https://github.com/user-attachments/assets/b387d26a-0d93-4f6e-a8da-1425bf8ceff1)
+<img src="https://github.com/user-attachments/assets/b387d26a-0d93-4f6e-a8da-1425bf8ceff1" alt="Zapier Workflow" width="800">
 
 ## 💡 Overview
 Standard AI automations often "hallucinate" when reading Google Slides because they process file metadata instead of actual text. This workflow solves that by combining:
